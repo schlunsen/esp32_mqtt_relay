@@ -23,3 +23,6 @@ make
 make flash
 ```
 
+## License
+
+[MIT License](./LICENSE)
