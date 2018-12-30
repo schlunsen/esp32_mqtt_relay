@@ -26,3 +26,5 @@ make flash
 ## License
 
 [MIT License](./LICENSE)
+
+Copyright (c) Rasmus Schlunsen
